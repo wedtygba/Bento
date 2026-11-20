@@ -15,10 +15,10 @@ const CONFIG = {
 	name: 'greggory',
 	openInNewTab: true,
 	twelveHourFormat: true,
-  title: 'latte-mocha',
+  title: 'home',
 
 	// Theme
-	theme: 'bento',
+	theme: 'latte-mocha',
 	imageBackground: false,
   imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
