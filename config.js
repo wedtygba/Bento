@@ -12,10 +12,10 @@ const CONFIG = {
 
   
 	// General
-	name: 'John',
+	name: 'greggory',
 	openInNewTab: true,
-	twelveHourFormat: false,
-  title: 'Bento',
+	twelveHourFormat: true,
+  title: 'latte-mocha',
 
 	// Theme
 	theme: 'bento',
@@ -42,10 +42,10 @@ const CONFIG = {
 	defaultLongitude: '-122.419',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
